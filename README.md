@@ -69,7 +69,7 @@
 #### Confusion Matrix
 
 ```python
-				precision    recall  f1-score   support
+		precision    recall  f1-score   support
 
        drugA       1.00      1.00      1.00         7
        drugB       1.00      1.00      1.00         5
