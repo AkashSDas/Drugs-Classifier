@@ -15,15 +15,19 @@ The [notebook](https://www.kaggle.com/akashsdas/drugs-classifier-using-decision-
 ## Modelling stage info
 
 **Different models cross validation score**
+
 ![model-cross-val-score](./docs/imgs/model-cross-val-score.png)
 
 **Trained model scores**
+
 ![model-score](./docs/imgs/model-score.png)
 
 **Classification report**
+
 ![classification-report](./docs/imgs/classification-report.png)
 
 **Decision Tree image**
+
 ![decision-tree](./docs/imgs/decision-tree.png)
 
 ## License
